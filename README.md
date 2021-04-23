@@ -2,7 +2,10 @@
 
 <h1 align='center'>🖥 Welcome</h1>
 
-<p align='center'> I'm Bernardo Rodrigues and I'm currently a Penetration Tester trainee at Cipher. </p>
+<p align='center'> I'm Bernardo Rodrigues and I'm currently a Penetration Tester trainee at Cipher. </p> 
+
+Find me on:  [![Linkedin: bernardo](https://img.shields.io/badge/LinkedIn-Bernardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardofsrodrigues/)](https://www.linkedin.com/in/bernardofsrodrigues/)
+
 
 
 <h1 align='center'>🛠 Favorite Tools & Technologies</h1>
