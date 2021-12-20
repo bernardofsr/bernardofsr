@@ -2,7 +2,7 @@
 
 <h1 align='center'>🖥 Welcome</h1>
 
-<p align='center'> I'm Bernardo Rodrigues and I'm currently a Penetration Tester trainee at <a href="http://www.cipher.com">Cipher</a></p>
+<p align='center'> I'm Bernardo Rodrigues and I'm currently an Offensive Cybersecurity Specialist</p>
 
 
 <h1 align='center'>🛠 Favorite Tools & Technologies</h1>
